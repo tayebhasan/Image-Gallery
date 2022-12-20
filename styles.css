@@ -1,0 +1,29 @@
+h1{
+text-align:center;
+    color:black;
+   font-family: 'Abril Fatface', cursive;
+   }
+
+body{
+background-color:#e4ddf0;
+text-align:center;}
+
+p{
+font-family: 'Abril Fatface', cursive;
+font-family: 'Kanit', sans-serif;
+color:black;
+}
+
+.add{
+    background-color: black;
+  	border: none;
+  	color: white;
+  	padding: 8px 16px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+	font-family: 'Abril Fatface', cursive;
+	font-family: 'Kanit', sans-serif;}
+
+img{width:150px;}
